@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Calendar
+Icon=icons-Applications-calendar
+Exec=/usr/bin/meego-handset-calendar
+Comment=MeeGo handset calendar application
+Categories=Office;Calendar;
+Terminal=false
+StartupNotify=true
+OnlyShowIn=X-DUI;X-MeeGo;X-MeeGoTouch;
+Name[en_US]=meego-handset-calendar.desktop
